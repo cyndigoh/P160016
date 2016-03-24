@@ -11,6 +11,6 @@ The fastq files are all stored here and need to be archived in due course.
 
 maphuman contains the sam files and bam files (raw, sorted and index) from mapping the hs37d5 genome
 
-The sam and bam files in the body of this folder have been mapped to a fasta file containing ERCC, plasmid and R00000173
+mapnonhuman contains the sam and bam files mapped to a fasta file containing ERCC, plasmid and R00000173
 
 
